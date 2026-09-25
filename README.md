@@ -9,7 +9,12 @@ I'm **nSQUICK** — welcome to my corner of GitHub! This is where I keep my proj
 - 🚀 Building projects and turning ideas into code
 - 🌱 Always learning something new
 - 📂 Take a look around my repositories — feedback is always welcome
-- ⚡ Fun fact: the snake below eats my contributions every day
+- ⚡ Fun fact: the banner above is pure animated SVG — no GIFs involved
+
+<!--
+  Hidden while GitHub Actions can't run on this account (it is locked by a
+  billing issue). Once .github/workflows/profile.yml has published the
+  `output` branch, remove this comment wrapper to bring the stats back.
 
 ### 📊 GitHub stats
 
@@ -27,6 +32,7 @@ I'm **nSQUICK** — welcome to my corner of GitHub! This is where I keep my proj
     <img src="https://raw.githubusercontent.com/nSQUICK/nSQUICK/output/snake.svg" alt="Snake eating my contribution graph" width="100%">
   </picture>
 </p>
+-->
 
 <p align="center">
   <img src="assets/footer.svg" alt="Thanks for visiting!" width="100%">
@@ -35,5 +41,3 @@ I'm **nSQUICK** — welcome to my corner of GitHub! This is where I keep my proj
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nSQUICK&label=profile%20views&color=818cf8&style=flat-square" alt="Profile views">
 </p>
-
-<!-- Stats cards and the snake are rebuilt daily by .github/workflows/profile.yml -->
